@@ -13,9 +13,9 @@ author: Yimeng Li
 
 navbar-links:
   Home: "index"
-  Research:
+  My Research:
     - Job Market Paper: "job_market_paper"
-    - Publication: "publication"
+    - Publications: "publications"
     - Under Review: "under_review"
     - Work in Progress: "work_in_progress"
     - All Research: "all_research"
