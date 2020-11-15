@@ -12,14 +12,17 @@ author: Yimeng Li
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "index"
+  Home: "yimeng-li.com"
   My Research:
     - Job Market Paper: "job_market_paper"
     - Publications: "publications"
     - Under Review: "under_review"
     - Work in Progress: "work_in_progress"
     - All Research: "all_research"
-  More Information: "more_information"
+  More Information:
+    - Professional and Departmental Activities: "activities"
+    - Teaching Experience: "teaching"
+    - Contact Information: "contact"
 
 # --- Logo --- #
 
@@ -60,7 +63,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: iXyeBcsAAAAJ
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
