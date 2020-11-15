@@ -12,7 +12,6 @@ author: Yimeng Li
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: ""
   My Research:
     - Job Market Paper: "job_market_paper"
     - Publications: "publications"
