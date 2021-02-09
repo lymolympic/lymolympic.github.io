@@ -15,7 +15,8 @@ navbar-links:
   My Research:
     - Job Market Paper: "job_market_paper"
     - Publications: "publications"
-    - Under Review: "under_review"
+    - Revise and Resubmit: "revise_and_resubmit"
+#    - Under Review: "under_review"
     - Work in Progress: "work_in_progress"
     - All Research: "all_research"
   More Information:
